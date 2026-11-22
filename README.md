@@ -8,3 +8,5 @@ Downloads and the update feed for **Daybook**, a macOS menu bar app by Tiger Blu
 Daybook is signed with a Developer ID and notarised by Apple. It needs macOS 15 or later.
 
 This repository holds releases only. It contains no source code.
+
+Found a security problem? Please report it privately; see [SECURITY.md](SECURITY.md).
